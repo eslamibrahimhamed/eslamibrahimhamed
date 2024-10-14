@@ -33,7 +33,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" /></a>
   <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" alt="SASS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://262.ecma-international.org/"><img src="https://img.shields.io/badge/ECMAScript-6?logo=javascript&logoColor=F7DF1E" alt="ECMAScript" /></a>
+  <a href="https://262.ecma-international.org/"><img src="https://ecma-international.org/publications-and-standards/standards/ecma-262/" alt="ECMAScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming"><img src="https://img.shields.io/badge/OOP-Concepts-orange" alt="OOP" /></a>
 </p>
 
