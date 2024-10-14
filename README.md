@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm <span style="color:#4FC08D;">Eslam Ibrahim Hamed</span>
+  Hi, I'm <span style="color:#4FC08D; animation: colorChange 3s infinite;">Eslam Ibrahim Hamed</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -55,3 +55,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<style>
+@keyframes colorChange {
+  0% { color: #4FC08D; }
+  50% { color: #34D399; }
+  100% { color: #4FC08D; }
+}
+</style>
