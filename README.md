@@ -7,20 +7,7 @@
   </svg>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm 
-  <svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FF6347" font-size="40" font-family="Arial">
-      Eslam Ibrahim Hamed
-    </text>
-  </svg>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
-
-
+  
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
 
 <p align="center">
