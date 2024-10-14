@@ -52,22 +52,6 @@ I'm a passionate front-end developer focused on building intuitive user experien
 
 ---
 
-## 🌟 Featured Projects
-<div align="center">
-  <p>Here are some of the exciting projects I've worked on:</p>
-  
-  - [🌐 My Portfolio Website](https://your-portfolio-link.com)  
-    A responsive portfolio showcasing my projects and skills.
-
-  - [🛍️ E-Commerce Platform](https://your-ecommerce-link.com)  
-    A modern e-commerce application built with Vue.js and Vuetify.
-
-  - [📱 Recipe Management App](https://your-recipe-app-link.com)  
-    A mobile-first app for managing and saving favorite recipes using Vue.js and Vuex.
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
