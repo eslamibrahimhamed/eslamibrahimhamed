@@ -1,6 +1,10 @@
-# Eslam Ibrahim Hamed
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hi, I'm <span style="color:#4FC08D;">Eslam Ibrahim Hamed</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-**Front-End Developer** specialized in creating responsive, user-friendly applications with modern web technologies.
+<h3 align="center">🚀 Front-End Developer 🚀</h3>
 
 ---
 
