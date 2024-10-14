@@ -31,6 +31,7 @@ I'm a passionate front-end developer focused on building intuitive user experien
   <a href="https://vuetifyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white" alt="Vuetify" /></a>
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js" /></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 </div>
 
 ### Languages & Preprocessors
@@ -43,9 +44,8 @@ I'm a passionate front-end developer focused on building intuitive user experien
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming" target="_blank"><img src="https://img.shields.io/badge/OOP-Concepts-orange" alt="OOP" /></a>
 </div>
 
-### Tools & Frameworks
+### Tools
 <div align="center">
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
