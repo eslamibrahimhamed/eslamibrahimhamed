@@ -6,6 +6,10 @@
 
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
 
+<p align="center">
+  <strong>Specialized in creating responsive, user-friendly applications with modern web technologies.</strong>
+</p>
+
 ---
 
 ## 🚀 Skills
