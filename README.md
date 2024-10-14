@@ -52,14 +52,6 @@ I'm a passionate front-end developer focused on building intuitive user experien
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamibrahimhamed&show_icons=true&theme=radical" alt="Eslam's GitHub Stats" />
-</div>
-
----
-
 ## 📬 Contact
 
 <div align="center">
