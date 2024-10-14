@@ -33,6 +33,6 @@
 
 ### Contact
 
-[![Mail](https://img.shields.io/badge/Mail-eslamibrahimhamed%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eslamibrahimhamed@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01140007055-green?logo=whatsapp&logoColor=white)](https://wa.me/201140007055)
+[![Mail](https://img.shields.io/badge/Mail-eslamibrahimhamed%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eslamibrahimhamed@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01140007055-green?logo=whatsapp&logoColor=white)](https://wa.me/201140007055)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-hamed-a30520229/)
