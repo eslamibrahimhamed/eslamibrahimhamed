@@ -4,6 +4,7 @@
   <svg width="500px" height="80px" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FF6347" font-size="40px" font-family="Arial" id="nameText">Eslam Ibrahim Hamed</text>
     <animate attributeName="fill" values="#FF6347;#34D399;#FFD700;#4FC08D;#FF6347" dur="5s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" attributeType="XML" type="scale" values="1;1.2;1" dur="2s" repeatCount="indefinite" />
   </svg>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
