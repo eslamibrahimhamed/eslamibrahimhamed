@@ -20,8 +20,6 @@
 
 I'm a passionate front-end developer focused on building intuitive user experiences with a love for clean code and modern web technologies. I strive to create applications that are both functional and aesthetically pleasing. Currently, I work primarily with Vue.js and other cutting-edge frameworks.
 
-> **Note:** Links in this README will open in the same tab by default. To open them in a new tab, right-click and select "Open in new tab" or use Ctrl+Click (Cmd+Click on Mac).
-
 ---
 
 ## 🚀 Skills
