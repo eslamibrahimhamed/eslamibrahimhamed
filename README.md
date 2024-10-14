@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm <span style="color:#4FC08D; animation: colorChange 3s infinite;">Eslam Ibrahim Hamed</span>
+  Hi, I'm 
+  <svg width="300px" height="40px" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#4FC08D" font-size="20px" font-family="Arial" id="animatedText">Eslam Ibrahim Hamed</text>
+    <animate xlink:href="#animatedText" attributeName="fill" values="#4FC08D;#34D399;#4FC08D" dur="3s" repeatCount="indefinite" />
+  </svg>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -55,11 +59,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<style>
-@keyframes colorChange {
-  0% { color: #4FC08D; }
-  50% { color: #34D399; }
-  100% { color: #4FC08D; }
-}
-</style>
