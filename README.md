@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
   Hi, I'm 
-  <span style="color: #FF6347;">Eslam</span> 
-  <span style="color: #34D399;">Ibrahim</span> 
-  <span style="color: #FFD700;">Hamed</span>
+  <span class="name-animation">
+    <span>E</span><span>s</span><span>l</span><span>a</span><span>m</span> 
+    <span>I</span><span>b</span><span>r</span><span>a</span><span>h</span><span>i</span><span>m</span> 
+    <span>H</span><span>a</span><span>m</span><span>e</span><span>d</span>
+  </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
-
 
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
 
@@ -89,3 +89,35 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<style>
+  .name-animation span {
+    display: inline-block;
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+  }
+
+  .name-animation span:nth-child(1) { animation-delay: 0.1s; }
+  .name-animation span:nth-child(2) { animation-delay: 0.2s; }
+  .name-animation span:nth-child(3) { animation-delay: 0.3s; }
+  .name-animation span:nth-child(4) { animation-delay: 0.4s; }
+  .name-animation span:nth-child(5) { animation-delay: 0.5s; }
+  .name-animation span:nth-child(6) { animation-delay: 0.6s; }
+  .name-animation span:nth-child(7) { animation-delay: 0.7s; }
+  .name-animation span:nth-child(8) { animation-delay: 0.8s; }
+  .name-animation span:nth-child(9) { animation-delay: 0.9s; }
+  .name-animation span:nth-child(10) { animation-delay: 1s; }
+  .name-animation span:nth-child(11) { animation-delay: 1.1s; }
+  .name-animation span:nth-child(12) { animation-delay: 1.2s; }
+  .name-animation span:nth-child(13) { animation-delay: 1.3s; }
+  .name-animation span:nth-child(14) { animation-delay: 1.4s; }
+  .name-animation span:nth-child(15) { animation-delay: 1.5s; }
+  .name-animation span:nth-child(16) { animation-delay: 1.6s; }
+  .name-animation span:nth-child(17) { animation-delay: 1.7s; }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
