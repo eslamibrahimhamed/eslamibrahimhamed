@@ -1,38 +1,49 @@
 # Eslam Ibrahim Hamed
 
-## Front-End Developer
+**Front-End Developer** specialized in creating responsive, user-friendly applications with modern web technologies.
 
 ---
 
-### Skills
+## 🚀 Skills
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vuex-33475E?logo=vue.js&logoColor=4FC08D" alt="Vuex" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+</p>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![Vuex](https://img.shields.io/badge/Vuex-33475E?logo=vue.js&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+### Languages & Preprocessors
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ECMAScript-6?logo=javascript&logoColor=F7DF1E" alt="ECMAScript" />
+  <img src="https://img.shields.io/badge/OOP-Concepts-orange" alt="OOP" />
+</p>
 
-#### Languages & Preprocessors
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![ECMAScript](https://img.shields.io/badge/ECMAScript-6?logo=javascript&logoColor=F7DF1E)
-![OOP](https://img.shields.io/badge/OOP-Concepts-orange)
-
-#### Front-End Tools & Frameworks
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### Contact
+## 📬 Contact
 
-[![Mail](https://img.shields.io/badge/Mail-eslamibrahimhamed%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eslamibrahimhamed@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01140007055-green?logo=whatsapp&logoColor=white)](https://wa.me/201140007055)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-hamed-a30520229/)
+<p>
+  <a href="mailto:eslamibrahimhamed@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-eslamibrahimhamed%40gmail.com-red?logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://wa.me/201140007055">
+    <img src="https://img.shields.io/badge/WhatsApp-01140007055-green?logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/eslam-hamed-a30520229/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
