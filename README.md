@@ -1,10 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm 
-  <span>E</span><span>s</span><span>l</span><span>a</span><span>m</span> 
-  <span>I</span><span>b</span><span>r</span><span>a</span><span>h</span><span>i</span><span>m</span> 
-  <span>H</span><span>a</span><span>m</span><span>e</span><span>d</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://your-gif-url.com/eslam-animated.gif" alt="Eslam Ibrahim Hamed" />
 </h1>
 
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
