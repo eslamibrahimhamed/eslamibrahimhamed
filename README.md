@@ -1,13 +1,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
   Hi, I'm 
-  <svg width="500px" height="80px" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
-    <text x="33%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FF6347" font-size="40px" font-family="Arial" id="firstNameText">Eslam</text>
-    <text x="55%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#34D399" font-size="40px" font-family="Arial" id="middleNameText">Ibrahim</text>
-    <text x="80%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FFD700" font-size="40px" font-family="Arial" id="lastNameText">Hamed</text>
-  </svg>
+  <span style="color: #FF6347;">Eslam</span> 
+  <span style="color: #34D399;">Ibrahim</span> 
+  <span style="color: #FFD700;">Hamed</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+
 
 
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
