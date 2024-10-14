@@ -3,11 +3,10 @@
   Hi, I'm 
   <svg width="500px" height="80px" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#4FC08D" font-size="40px" font-family="Arial" id="nameText">Eslam Ibrahim Hamed</text>
-    <animate attributeName="fill" values="#4FC08D;#34D399;#4FC08D" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#4FC08D;#34D399;#FF6347;#FFD700;#4FC08D" dur="5s" repeatCount="indefinite" />
   </svg>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
 
 <h3 align="center">🚀 Front-End Developer 🚀</h3>
 
