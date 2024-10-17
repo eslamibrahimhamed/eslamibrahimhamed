@@ -1,10 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
   Hi, I'm 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 80">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FF6347" font-size="40" font-family="Arial">Eslam Ibrahim Hamed</text>
-    <animate attributeName="fill" values="#FF6347;#34D399;#FFD700;#4FC08D;#FF6347" dur="5s" repeatCount="indefinite" />
-  </svg>
+  <img src="https://drive.google.com/uc?export=view&id=1aziLX4rrX-927aPt4ftc7kbVPgps65-O" alt="Eslam Ibrahim Hamed" width="200">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
   
