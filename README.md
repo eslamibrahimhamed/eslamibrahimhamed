@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/eslamibrahimhamed/images/main/2024-10-17-Eslam-Ibrahim-Hamed%20(1).gif" alt="Eslam Ibrahim Hamed" width="200">
+<img src="https://raw.githubusercontent.com/eslamibrahimhamed/images/main/2024-10-17-Eslam-Ibrahim-Hamed%20(1).gif" alt="Eslam Ibrahim Hamed" width="260">
 </h1>
 
   
