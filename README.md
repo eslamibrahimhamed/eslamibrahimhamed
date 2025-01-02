@@ -35,6 +35,7 @@ I'm a passionate front-end developer focused on building intuitive user experien
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" alt="SASS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://img.shields.io/badge/ECMAScript-6?logo=javascript&logoColor=F7DF1E" alt="ECMAScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming" target="_blank"><img src="https://img.shields.io/badge/OOP-Concepts-orange" alt="OOP" /></a>
 </div>
