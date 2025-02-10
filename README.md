@@ -23,6 +23,7 @@ I'm a passionate front-end developer focused on building intuitive user experien
 <div align="center">
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue.js" /></a>
   <a href="https://vuex.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vuex-33475E?logo=vue.js&logoColor=4FC08D" alt="Vuex" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" /></a>
   <a href="https://vuetifyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white" alt="Vuetify" /></a>
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js" /></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" /></a>
@@ -44,7 +45,6 @@ I'm a passionate front-end developer focused on building intuitive user experien
 <div align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" /></a>
 </div>
 
 ---
